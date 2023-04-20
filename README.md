@@ -1,5 +1,5 @@
 # Coingecko-Trending-Bot
-A CMC Trending bot to make your Token Trending on Coinmarketcap Using Python Software. @TheLokiDev
+A CG Trending bot to make your Token Trending on CoinGecko Using Python Software. @TheLokiDev
 
 </p>
 
