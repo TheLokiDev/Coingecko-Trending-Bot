@@ -1,0 +1,11 @@
+{
+    "proxy": "p.webshare.io",
+    "thread": 5,
+    "url": "https://www.coingecko.com/en/coins/pong-heroes",
+    "coin": "Pong Heroes",
+    "port": 80,
+    "user":"",
+    "pasw":""
+}
+
+
